@@ -46,3 +46,20 @@ For future employers, I can showcase:
 - Experience refactoring real-world application code for security  
 
 These artifacts demonstrate practical secure software development and DevSecOps skills.
+
+## CS-320 Software Testing & Automation
+
+This section contains artifacts demonstrating unit testing, automation, and quality assurance practices.
+
+Included:
+- Contact.java
+- ContactService.java
+- ContactTest.java
+- ContactServiceTest.java
+- Project Two Summary and Reflection
+
+These projects demonstrate my ability to:
+- Implement validation logic based on requirements
+- Develop unit tests using JUnit
+- Apply automation principles to improve reliability
+- Analyze and reflect on testing strategies
